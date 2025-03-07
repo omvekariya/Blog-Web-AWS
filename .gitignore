@@ -1,0 +1,6 @@
+.venv
+src/blog/__pycache__
+src/blog/migrations
+src/users/__pycache__
+src/users/migrations
+src/cblog/__pycache__
